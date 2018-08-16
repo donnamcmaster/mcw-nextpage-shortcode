@@ -1,6 +1,6 @@
 Plugin Name: McWebby Nextpage Shortcode
 Plugin URI: http://www.donnamcmaster.com/
-Description: Converts [nextpage] to the proper nextpage comment.
+Description: Converts [nextpage] to the proper <!--nextpage--> comment.
 Version: 00.01.00
 
 Author: Donna McMaster, based on code by Birgir Erlendsson
